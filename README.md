@@ -5,7 +5,7 @@
   <h1 align="center">Ecommerce Website</h1>
 
   <h3 align="center">
-   Fullstack NextJS e-commerce website utilizing Stripe as payment integration and Sanity as the database
+   Fullstack NextJS e-commerce website
   </h3>
  <br />
  
@@ -17,23 +17,25 @@
 
 ## About The Project:-
 
-![Home page](https://github.com/lewis-boy/gericht-restaurant/blob/main/public/restaurant-gif.gif "Gericht Restaurant home page")
+![Home page](https://github.com/lewis-boy/ecommerce/blob/main/public/ecommerce1.gif "ecommerce run-down")
+![Home page](https://github.com/lewis-boy/ecommerce/blob/main/public/ecommerce2.gif "ecommerce run-down")
 
-Gericht Restaurant is a frontend-only modern restaurant website focusing more on UI/UX design.
+Fullstack NextJS e-commerce website utilizing Stripe as payment integration and Sanity as the database
 
 #### The common features are:-
 
-- A one-page sleek design (for now)
-- A consistent black and gold scheme throughout the page
-- Uniform font styles and font attributes
-- Video rendering 
-- Carousel-based photo gallery linked to Instagram 
+- NextJS for static page rendering and file-based backend routing
+- Sanity as the database
+- React Context for global state management
 
 ### Built With
 
-- #### React
+- #### NextJS
 - #### HTML5
 - #### CSS3
+- #### Sanity
+- #### Stripe
+- #### Context API
 
 
 <!-- GETTING STARTED -->
@@ -46,7 +48,7 @@ Gericht Restaurant is a frontend-only modern restaurant website focusing more on
 
 ### To build project:-
 
-### `npm run build`
+### `npm run dev`
 
 ## Deploy on Vercel
 
