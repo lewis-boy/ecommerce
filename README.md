@@ -1,31 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<!-- PROJECT LOGO -->
+<p align="center">
 
-First, run the development server:
+  <h1 align="center">Ecommerce Website</h1>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+  <h3 align="center">
+   Fullstack NextJS e-commerce website utilizing Stripe as payment integration and Sanity as the database
+  </h3>
+ <br />
+ 
+ ### Click here for live demo   <a href="https://ecommerce-lewis-boy.vercel.app/">Ecommerce</a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+</p>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<!-- ABOUT THE PROJECT -->
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## About The Project:-
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![Home page](https://github.com/lewis-boy/gericht-restaurant/blob/main/public/restaurant-gif.gif "Gericht Restaurant home page")
 
-## Learn More
+Gericht Restaurant is a frontend-only modern restaurant website focusing more on UI/UX design.
 
-To learn more about Next.js, take a look at the following resources:
+#### The common features are:-
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- A one-page sleek design (for now)
+- A consistent black and gold scheme throughout the page
+- Uniform font styles and font attributes
+- Video rendering 
+- Carousel-based photo gallery linked to Instagram 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Built With
+
+- #### React
+- #### HTML5
+- #### CSS3
+
+
+<!-- GETTING STARTED -->
+
+# Getting Started
+
+### To run project:-
+
+### `npm start`
+
+### To build project:-
+
+### `npm run build`
 
 ## Deploy on Vercel
 
